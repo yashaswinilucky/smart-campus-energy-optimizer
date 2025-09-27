@@ -6,7 +6,8 @@ This project is an end-to-end data science application designed to predict and o
 
 This project was built as a Final Year Project, demonstrating skills in data cleaning, time-series analysis, machine learning, and application development.
 
-![Dashboard Screenshot](<path_to_your_screenshot.png>)
+![Dashboard Screenshot](<img width="1913" height="923" alt="Screenshot 2025-09-27 222806" src="https://github.com/user-attachments/assets/1ada44d3-95cb-4ca9-a45f-200a0c2ac710" />
+)
 *You should replace the line above with a screenshot of your running dashboard.*
 
 ---
