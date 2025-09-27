@@ -69,3 +69,17 @@ To run this project on your local machine, follow these steps:
 ---
 
 ## 📂 Project Structure
+
+smart-campus-energy-optimizer/
+├── dashboard/
+│   └── app.py              # The Streamlit dashboard application
+├── data/
+│   ├── raw/                # Raw, unprocessed data
+│   └── processed/          # Cleaned, feature-engineered data
+├── models/
+│   └── rf_model.pkl        # The saved, pre-trained Random Forest model
+├── notebooks/
+│   └── 01-Data-Exploration.ipynb # Jupyter Notebook for analysis and modeling
+└── README.md               # This file
+
+
